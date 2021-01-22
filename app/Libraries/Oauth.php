@@ -4,7 +4,7 @@ namespace App\Libraries;
 
 use \OAuth2\Storage\Pdo;
 
-class OAuth2
+class Oauth
 {
   var $server;
 
