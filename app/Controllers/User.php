@@ -3,7 +3,7 @@
 namespace App\Controllers;
 
 use \App\Libraries\Oauth;
-use \Oauth2\Request;
+use \OAuth2\Request;
 use Codeigniter\API\ResponseTrait;
 
 class User extends BaseController
