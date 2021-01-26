@@ -10,7 +10,7 @@ class OauthClients extends Seeder
 	{
 		$client_data = [
 			'client_id' => 'A01',
-			'client_secret'  => 'client_secret',
+			'client_secret'  => 'test_secret',
 			'grant_types'  => 'password',
 			'scope'  => 'app',
 		];

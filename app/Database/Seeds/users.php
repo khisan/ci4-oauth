@@ -12,7 +12,7 @@ class Users extends Seeder
 			'firstname'  => 'Khisan',
 			'lastname'  => 'Ihza',
 			'email'  => 'khisan@gmail.com',
-			'password'  => 'password',
+			'password'  => '$2y$10$kL4Oe307KlGqeHY.G9b1U.vi0iwIfeSD5OmPTZova250TqpcgW8Au',
 			'scope'  => 'app',
 		];
 
