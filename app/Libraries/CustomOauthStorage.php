@@ -456,7 +456,7 @@ class CustomOauthStorage implements
 
     // the default behavior is to use "username" as the user_id
     return array_merge(array(
-      'user_id' => $user['id']
+      'user_id' => $user['email']
     ), $user);
   }
 
